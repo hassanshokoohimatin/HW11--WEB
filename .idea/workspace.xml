@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76c992c5-f556-403c-a106-1d6385cc64da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sample/web-2/hw11-question2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,12 +40,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.hw11-question2.html">
     <configuration name="hw11-question1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HW11--WEB/sample/web-1/hw11-question1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="hw11-question2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HW11--WEB/sample/web-2/hw11-question2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.hw11-question2.html" />
         <item itemvalue="JavaScript Debug.hw11-question1.html" />
       </list>
     </recent_temporary>
@@ -60,6 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579122292375</updated>
       <workItem from="1579122298907" duration="4593000" />
+      <workItem from="1579134228719" duration="88000" />
+      <workItem from="1579139680969" duration="1639000" />
     </task>
     <servers />
   </component>
@@ -71,7 +78,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
