@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76c992c5-f556-403c-a106-1d6385cc64da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sample/web-2/hw11-question2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/web-3/hw11-question3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/web-3/web3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/web-4/hw11-question4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/web-4/web4.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,15 +43,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.hw11-question2.html">
+  <component name="RunManager" selected="JavaScript Debug.hw11-question4.html">
     <configuration name="hw11-question1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HW11--WEB/sample/web-1/hw11-question1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="hw11-question2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HW11--WEB/sample/web-2/hw11-question2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="hw11-question3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HW11--WEB/sample/web-3/hw11-question3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="hw11-question4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HW11--WEB/sample/web-4/hw11-question4.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.hw11-question4.html" />
+        <item itemvalue="JavaScript Debug.hw11-question3.html" />
         <item itemvalue="JavaScript Debug.hw11-question2.html" />
         <item itemvalue="JavaScript Debug.hw11-question1.html" />
       </list>
@@ -66,7 +77,12 @@
       <updated>1579122292375</updated>
       <workItem from="1579122298907" duration="4593000" />
       <workItem from="1579134228719" duration="88000" />
-      <workItem from="1579139680969" duration="1639000" />
+      <workItem from="1579139680969" duration="1728000" />
+      <workItem from="1579189517979" duration="3824000" />
+      <workItem from="1579214502689" duration="224000" />
+      <workItem from="1579215274756" duration="27000" />
+      <workItem from="1579243599878" duration="2783000" />
+      <workItem from="1579253467583" duration="1699000" />
     </task>
     <servers />
   </component>
