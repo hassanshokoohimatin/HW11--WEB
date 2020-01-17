@@ -2,17 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76c992c5-f556-403c-a106-1d6385cc64da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sample/web-3/hw11-question3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/web-3/web3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/web-4/hw11-question4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample/web-4/web4.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/web-3/hw11-question3.html" beforeDir="false" afterPath="$PROJECT_DIR$/sample/web-3/hw11-question3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/web-3/web3.css" beforeDir="false" afterPath="$PROJECT_DIR$/sample/web-3/web3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/web-4/hw11-question4.html" beforeDir="false" afterPath="$PROJECT_DIR$/sample/web-4/hw11-question4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/web-4/web4.css" beforeDir="false" afterPath="$PROJECT_DIR$/sample/web-4/web4.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,7 +97,19 @@
       <workItem from="1579215274756" duration="27000" />
       <workItem from="1579243599878" duration="2783000" />
       <workItem from="1579253467583" duration="1699000" />
+      <workItem from="1579258552419" duration="122000" />
+      <workItem from="1579259526249" duration="2181000" />
+      <workItem from="1579274151531" duration="4485000" />
+      <workItem from="1579278857966" duration="2168000" />
     </task>
+    <task id="LOCAL-00001" summary="some edition">
+      <created>1579258641105</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579258641105</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,5 +127,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some edition" />
+    <option name="LAST_COMMIT_MESSAGE" value="some edition" />
   </component>
 </project>

@@ -1,19 +1,23 @@
+
+
+
+
 .container{padding-right: 20%; padding-left: 20%; padding-bottom: 20%; padding-top: 2%;
-  background-color: cornflowerblue; width: fit-content; margin-right: auto; margin-left: auto
+  background-color: cornflowerblue; width: fit-content;margin-top: 30px;margin-left: 200px;margin-right: 200px;
 }
 
 
-.form{width:200px ; height: 100px; margin-left: auto; margin-right: auto; text-align: center;
+.form{width:300px ; height: 150px; margin-left: auto; margin-right: auto; text-align: center;
   background-color: white; padding: 10px;
   font-family: "Calibri Light";
 }
 
 
-.form-input{margin: 3px; width: 80%;height: 20px; text-align: center;
+.inputstyle{margin: 3px; width: 80%;height: 20px; text-align: center;
   background-color: gainsboro; border: none
 }
 
 
 .button{margin: 3px; width: 80%; height:25px;color: white;
-  background-color: cornflowerblue
+  background-color: cornflowerblue;
 }

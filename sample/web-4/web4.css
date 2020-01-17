@@ -1,9 +1,4 @@
-.container{
-  display: block;
-  margin: 10px
-}
-
-.header{
+.head{
   padding: 30px;
   background-color: royalblue;
   color: white;
@@ -18,7 +13,7 @@
   width: inherit
 }
 
-.article-item{
+.item{
   text-align: center;
   margin: 10px;
   padding: 10px;
@@ -26,11 +21,7 @@
   width: 100%
 }
 
-.article-title{
-  font-weight: bold;
-}
-
-.color-item{
+.colorcode{
   text-align: center;
   padding: 30px;
   padding-left: 10px;
@@ -39,14 +30,8 @@
   width: 100%
 }
 
-.background-color-blue{background-color: rgb(60,138,228)}
-.background-color-yellow{background-color: rgb(231,187,93)}
-.background-color-green{background-color: rgb(93,231,190)}
-.background-color-pink{background-color: rgb(231,93,127)}
-
 @media screen and (max-width: 620px){
-  .container{margin: 10px}
   .items-container{display: block;}
-  .article-item{width: inherit}
+  .item{width: inherit}
   .color-item{width: inherit}
 }
